@@ -21,7 +21,7 @@ class SplashScreen extends StatelessWidget {
                   animationDuration: const Duration(milliseconds: 1000),
                   animation: DelayedAnimations.SLIDE_FROM_TOP,
                   child: Image.asset(
-              'assets/images/default-user-avatar.png',
+              'assets/images/defaul t-user-avatar.png',
               width: width * 0.8,
             ),
                 )),
